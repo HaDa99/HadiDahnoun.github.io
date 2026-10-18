@@ -20,6 +20,10 @@ linkedin_username: "hady-dahnoun"
 #########################################################################################
 theme: "minima"
 
+header_pages:
+  - archive.md
+  - cv.md
+
 #rss: rss
 
 kramdown:

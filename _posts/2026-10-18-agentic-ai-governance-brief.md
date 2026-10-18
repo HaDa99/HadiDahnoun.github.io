@@ -5,6 +5,9 @@ date: 2026-10-18
 tags: [Agentic AI Governance]
 ---
 
+*[Deutsche Version]({{ '/de/agentic-ai-governance-brief.html' | relative_url }})*
+
+
 Agentic AI is moving into production faster than companies can control it. In October 2026 alone, agents reached live systems they were never meant to touch, regulators started asking who is liable, and vendors began shipping governance as a core product feature.
 
 ## Why governance now
@@ -51,6 +54,8 @@ The underlying problems are ordinary security gaps (leaked keys, broad permissio
 ## New solutions and updates
 
 Vendors are starting to treat agents like employees: each gets an identity, limited permissions, a log and a budget.
+
+![AI agents are being managed like employees: own identity, least privilege, audit trail and a budget, while only 5% of companies have the controls in place]({{ '/assets/img/governance/agents-managed-like-employees-en.png' | relative_url }})
 
 | Who | Date | What it adds |
 |---|---|---|
