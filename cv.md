@@ -50,12 +50,12 @@ Topics: business process management, IT governance, data structures, graph theor
 
 ## Projects
 
-### Agentic Process Automation · Master's thesis research
+### Master's thesis: Agentic Process Automation (APA)
 *2026*
 
-- Explored how enterprise automation moves from rule-based setups to agent-driven, goal-oriented process execution, using UiPath, Camunda 8.9 and Google Vertex AI Agent Engine with Google Workflows
-- Built IT-support demos in UiPath and Camunda: an AI agent analyzes user-reported issues, generates resolution steps, uses Jira and email as tools, and brings in human approval when needed
-- Built a finance demo on Google Cloud: portfolio data is read from Google Sheets, processed by an ADK financial-advisor agent deployed on Vertex AI Agent Engine, and the report is written back to Sheets on a weekly schedule without user intervention
+- Derived evaluation criteria for APA platforms, focusing on agent capabilities, workflow orchestration, integrations, governance and observability
+- Identified suitable tools for a utility analysis (Nutzwertanalyse) through targeted market and tool research and hands-on testing in trial environments
+- Implemented a uniform multi-agent process on the selected platforms (Camunda, UiPath and Microsoft Copilot Studio)
 
 ## Skills
 
