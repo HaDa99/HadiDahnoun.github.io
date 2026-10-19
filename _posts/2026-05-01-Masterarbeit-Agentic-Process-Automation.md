@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Masterarbeit: Vergleichende Analyse von Agentic-Process-Automation-Tools"
-date: 2026-10-19
+date: 2026-05-01
 tags: [Masterarbeit, Agentic Process Automation]
 ---
 
